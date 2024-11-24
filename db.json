@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "marca": "toyota",
+        "modelo": "corolla",
+        "año": 2022,
+        "precio": 25000,
+        "color": "blanco"
+    },
+    {
+        "id": 2,
+        "marca": "honda",
+        "modelo": "civic",
+        "año": 2021,
+        "precio": 24000,
+        "color": "negro"
+    },
+    {
+        "id": 3,
+        "marca": "ford",
+        "modelo": "focus",
+        "año": 2023,
+        "precio": 26000,
+        "color": "azul"
+    },
+    {
+        "id": 4,
+        "marca": "chevrolet",
+        "modelo": "malibu",
+        "año": 2020,
+        "precio": 23000,
+        "color": "rojo"
+    },
+    {
+        "id": 5,
+        "marca": "bmw",
+        "modelo": "serie 3",
+        "año": 2022,
+        "precio": 40000,
+        "color": "gris"
+    },
+    {
+        "id": 6,
+        "marca": "toyota",
+        "modelo": "camry",
+        "año": 2022,
+        "precio": 30000,
+        "color": "negro"
+    },
+    {
+        "id": 7,
+        "marca": "honda",
+        "modelo": "accord",
+        "año": 2021,
+        "precio": 28000,
+        "color": "blanco"
+    },
+    {
+        "id": 8,
+        "marca": "ford",
+        "modelo": "fiesta",
+        "año": 2020,
+        "precio": 18000,
+        "color": "azul"
+    },
+    {
+        "id": 9,
+        "marca": "chevrolet",
+        "modelo": "spark",
+        "año": 2023,
+        "precio": 15000,
+        "color": "rojo"
+    },
+    {
+        "id": 10,
+        "marca": "bmw",
+        "modelo": "serie 5",
+        "año": 2022,
+        "precio": 55000,
+        "color": "gris"
+    }
+]
